@@ -1,0 +1,2 @@
+Main-Class: PlatipusServer
+Class-Path: PlatipusServer.jar
